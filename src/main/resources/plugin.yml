@@ -1,0 +1,11 @@
+name: SimpleFly
+version: ${project.version}
+main: me.maximilian1021.main.SimpleFly
+api-version: 1.16
+authors: [ Maximilian1021 ]
+description: Ein Plugin was den /fly command hinzufügt
+website: https://max1021.de
+
+commands:
+  fly:
+    description: Schalte Fly ein und aus
